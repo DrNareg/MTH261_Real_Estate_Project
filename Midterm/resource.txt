@@ -1,0 +1,6 @@
+https://github.com/girishkuniyal/Predict-housing-prices-in-Portland 
+
+New Listing Count in Oregon: https://fred.stlouisfed.org/series/NEWLISCOUOR 
+
+could be useful to get dataset: https://www.redfin.com/news/data-center/  
+
